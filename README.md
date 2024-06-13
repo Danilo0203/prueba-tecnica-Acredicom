@@ -1,8 +1,40 @@
-# React + Vite
+# Proyecto Prueba Técnica Acredicom
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto utiliza Vite para la configuración y desarrollo del entorno de front-end.
 
-Currently, two official plugins are available:
+## Requisitos
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Antes de comenzar, asegúrate de tener instalado lo siguiente:
+
+- [Node.js](https://nodejs.org/) (versión 12 o superior)
+- [Git](https://git-scm.com/)
+
+## Pasos para inicializar el proyecto
+
+Sigue los siguientes pasos para configurar e inicializar el proyecto Vite en este repositorio.
+
+### 1. Clona el repositorio
+
+Primero, clona el repositorio en tu máquina local utilizando el siguiente comando:
+
+```bash
+git clone https://github.com/Danilo0203/prueba-tecnica-Acredicom.git
+```
+
+### 2. Navega al directorio del proyecto
+
+```bash
+cd prueba-tecnica-Acredicom
+```
+
+### 3. Instala las dependencias
+
+```bash
+npm install
+```
+
+### 4. Desplegar el repositorio de manera local
+
+```bash
+npm run dev
+```
